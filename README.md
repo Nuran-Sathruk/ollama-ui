@@ -1,2 +1,2 @@
 # Ollama-UI
-UI Design
+UI Design for Ollama
