@@ -1,2 +1,2 @@
-# ollama-ui
+# Ollama-UI
 UI Design
